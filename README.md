@@ -45,6 +45,6 @@ This analysis provides valuable insights into the factors affecting student exam
 - **Data Profiling:** MS Excel
 ## Contact 📧
 For any queries, feel free to reach out:
-- **Email:** [mayanky075@gmail.com]
-- **LinkedIn:** [https://linkedin.com/in/mayankyadv]
+- **[Email](mayanky075@gmail.com)** 
+- **[LinkedIn](https://linkedin.com/in/mayankyadv)**
 
